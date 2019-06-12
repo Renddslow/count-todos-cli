@@ -35,10 +35,10 @@ commander@^2.20.0:
   resolved "https://registry.yarnpkg.com/commander/-/commander-2.20.0.tgz#d58bb2b5c1ee8f87b0d340027e9e94e222c5a422"
   integrity sha512-7j2y+40w61zy6YC2iRNpUe/NwhNyoXrYpHMrSunaMG64nRnaf96zO/KMQR4OyN/UnE5KLyEBnKHd4aG3rskjpQ==
 
-count-todos@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/count-todos/-/count-todos-1.1.0.tgz#5333f858b824724ecf2b4e82221911e700ab6719"
-  integrity sha512-gILnzuWKPI9CxuOEHEI8elMAYCJzEAixSzOyBd031EdPKdiNgM+NE6jBQtdGSx/h8ImzhTm3jWt9S8iOTxL08w==
+count-todos@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/count-todos/-/count-todos-1.1.1.tgz#7ac8945ddad1793008e664db55ef48dc83a92f88"
+  integrity sha512-MLY2vIJ4gOmitmNYW2Giqq8Ub6y5KWdKy2BmTahF3wOCqCZqT2FtyZ8e8wW3Qd4ny2CkhIbYJm9MzQYlls1EaA==
   dependencies:
     chalk "^2.4.2"
 

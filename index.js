@@ -5,7 +5,7 @@ const countTodos = require('count-todos');
 program
 	.version(require('./package').version)
 	.option('-p, --path [path]')
-	.option('-e, --exclude [exclusions]')
+	.option('-e, --exclude [exclude]')
 	.option('-f, --fileTypes [fileTypes]')
 	.option('-v, --verbose')
 	.parse(process.argv);

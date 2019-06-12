@@ -5,7 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^2.20.0",
-    "count-todos": "^1.1.0"
+    "count-todos": "^1.1.1"
   },
   "bin": {
     "count-todos": "./index.js"
